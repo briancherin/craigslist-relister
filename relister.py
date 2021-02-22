@@ -22,7 +22,6 @@ def get_chrome_driver():
     return webdriver.Chrome(chrome_driver_path)
 
 def relist():
-    print("SDKJLFSHLFSDFLSDL")
 
     # get the browser
     browser = get_chrome_driver() #webdriver.Chrome(chrome_driver_path)
