@@ -1,0 +1,5 @@
+pyi-makespec cli.py --onefile --add-binary "chromedriver.exe;." --name craigslist_renewer
+
+and then
+
+pyinstaller craigslist_renewer.spec

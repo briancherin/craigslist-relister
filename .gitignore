@@ -1,0 +1,8 @@
+helper.py
+__pycache__
+.DS_Store
+build
+dist
+chromedriver.exe
+*.spec
+*.exe
